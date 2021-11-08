@@ -1,3 +1,5 @@
 # Hi, I'm Solomon
 
-I have started working on an OpenCore based patcher for macOS Monterey. 
+* My favourite language is Java, followed by C++
+* I have written a program called JavaInstaller which automates Java installation.
+* I will be writing more Java programs soon.
